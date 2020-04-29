@@ -1,4 +1,4 @@
-# DirtyCSVFileRader
+# DirtyCSVFileReader
 this needs clean up
 
 Required Tools:
