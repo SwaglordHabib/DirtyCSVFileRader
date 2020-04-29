@@ -16,7 +16,7 @@ var processData = function (allText) {
     }
 };
 (function () {
-    fs.readFileSync("D:\\Benutzer\\Manuel\\Repos\\tcsv\\file.csv", function (err, data) {
+    fs.readFileSync("file.csv", function (err, data) {
         if (err) {
             console.log(err);
             return;
